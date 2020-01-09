@@ -1,0 +1,14 @@
+C:\Users\opilane\projects\artem_database\artem_database\artem_database\bin\Debug\netstandard2.0\artem_database.deps.json
+C:\Users\opilane\projects\artem_database\artem_database\artem_database\bin\Debug\netstandard2.0\artem_database.dll
+C:\Users\opilane\projects\artem_database\artem_database\artem_database\bin\Debug\netstandard2.0\ref\artem_database.dll
+C:\Users\opilane\projects\artem_database\artem_database\artem_database\bin\Debug\netstandard2.0\artem_database.pdb
+C:\Users\opilane\projects\artem_database\artem_database\artem_database\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\opilane\projects\artem_database\artem_database\artem_database\obj\Debug\netstandard2.0\FriendPage.xaml.g.cs
+C:\Users\opilane\projects\artem_database\artem_database\artem_database\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\opilane\projects\artem_database\artem_database\artem_database\obj\Debug\netstandard2.0\artem_database.csproj.CoreCompileInputs.cache
+C:\Users\opilane\projects\artem_database\artem_database\artem_database\obj\Debug\netstandard2.0\artem_database.AssemblyInfoInputs.cache
+C:\Users\opilane\projects\artem_database\artem_database\artem_database\obj\Debug\netstandard2.0\artem_database.AssemblyInfo.cs
+C:\Users\opilane\projects\artem_database\artem_database\artem_database\obj\Debug\netstandard2.0\artem_database.dll
+C:\Users\opilane\projects\artem_database\artem_database\artem_database\obj\Debug\netstandard2.0\ref\artem_database.dll
+C:\Users\opilane\projects\artem_database\artem_database\artem_database\obj\Debug\netstandard2.0\artem_database.pdb
+C:\Users\opilane\projects\artem_database\artem_database\artem_database\obj\Debug\netstandard2.0\artem_database.csprojAssemblyReference.cache
