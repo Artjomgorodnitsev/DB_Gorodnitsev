@@ -113,6 +113,8 @@ class MonoPackageManager_Resources {
 		"artem_database.Android.dll",
 		"artem_database.dll",
 		"FormsViewGroup.dll",
+		"Plugin.Messaging.Abstractions.dll",
+		"Plugin.Messaging.dll",
 		"SQLite-net.dll",
 		"SQLitePCLRaw.batteries_green.dll",
 		"SQLitePCLRaw.batteries_v2.dll",

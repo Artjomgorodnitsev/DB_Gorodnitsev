@@ -15,13 +15,19 @@ namespace artem_database
         public FriendPage()
         {
             InitializeComponent();
+            
 
             DP.MaximumDate = DateTime.Now;
+
         }
+
+
 
         private void SaveFriend(object sender, EventArgs e)
         {
             var friend = (Friend)BindingContext;
+
+
             if (!String.IsNullOrEmpty(friend.Name))
             {
                 App.Database.SaveItem(friend);

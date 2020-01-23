@@ -390,6 +390,20 @@
           }
         }
       },
+      "Xam.Plugins.Messaging/5.2.0": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "lib/UAP10/Plugin.Messaging.Abstractions.dll": {},
+          "lib/UAP10/Plugin.Messaging.dll": {}
+        },
+        "runtime": {
+          "lib/UAP10/Plugin.Messaging.Abstractions.dll": {},
+          "lib/UAP10/Plugin.Messaging.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.1.0": {
         "type": "package",
         "dependencies": {
@@ -431,6 +445,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Xam.Plugins.Messaging": "5.2.0",
           "Xamarin.Essentials": "1.1.0",
           "Xamarin.Forms": "4.0.0.425677",
           "sqlite-net-pcl": "1.6.292"
@@ -985,6 +1000,20 @@
           "runtimes/win10-arm/native/Microsoft.Graphics.Canvas.dll": {}
         }
       },
+      "Xam.Plugins.Messaging/5.2.0": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "lib/UAP10/Plugin.Messaging.Abstractions.dll": {},
+          "lib/UAP10/Plugin.Messaging.dll": {}
+        },
+        "runtime": {
+          "lib/UAP10/Plugin.Messaging.Abstractions.dll": {},
+          "lib/UAP10/Plugin.Messaging.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.1.0": {
         "type": "package",
         "dependencies": {
@@ -1026,6 +1055,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Xam.Plugins.Messaging": "5.2.0",
           "Xamarin.Essentials": "1.1.0",
           "Xamarin.Forms": "4.0.0.425677",
           "sqlite-net-pcl": "1.6.292"
@@ -1581,6 +1611,20 @@
           "runtimes/win10-arm/native/Microsoft.Graphics.Canvas.dll": {}
         }
       },
+      "Xam.Plugins.Messaging/5.2.0": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "lib/UAP10/Plugin.Messaging.Abstractions.dll": {},
+          "lib/UAP10/Plugin.Messaging.dll": {}
+        },
+        "runtime": {
+          "lib/UAP10/Plugin.Messaging.Abstractions.dll": {},
+          "lib/UAP10/Plugin.Messaging.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.1.0": {
         "type": "package",
         "dependencies": {
@@ -1622,6 +1666,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Xam.Plugins.Messaging": "5.2.0",
           "Xamarin.Essentials": "1.1.0",
           "Xamarin.Forms": "4.0.0.425677",
           "sqlite-net-pcl": "1.6.292"
@@ -1995,6 +2040,20 @@
           "lib/uap10.0/Microsoft.Graphics.Canvas.winmd": {}
         }
       },
+      "Xam.Plugins.Messaging/5.2.0": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "lib/UAP10/Plugin.Messaging.Abstractions.dll": {},
+          "lib/UAP10/Plugin.Messaging.dll": {}
+        },
+        "runtime": {
+          "lib/UAP10/Plugin.Messaging.Abstractions.dll": {},
+          "lib/UAP10/Plugin.Messaging.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.1.0": {
         "type": "package",
         "dependencies": {
@@ -2036,6 +2095,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Xam.Plugins.Messaging": "5.2.0",
           "Xamarin.Essentials": "1.1.0",
           "Xamarin.Forms": "4.0.0.425677",
           "sqlite-net-pcl": "1.6.292"
@@ -2590,6 +2650,20 @@
           "runtimes/win10-x64/native/Microsoft.Graphics.Canvas.dll": {}
         }
       },
+      "Xam.Plugins.Messaging/5.2.0": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "lib/UAP10/Plugin.Messaging.Abstractions.dll": {},
+          "lib/UAP10/Plugin.Messaging.dll": {}
+        },
+        "runtime": {
+          "lib/UAP10/Plugin.Messaging.Abstractions.dll": {},
+          "lib/UAP10/Plugin.Messaging.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.1.0": {
         "type": "package",
         "dependencies": {
@@ -2631,6 +2705,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Xam.Plugins.Messaging": "5.2.0",
           "Xamarin.Essentials": "1.1.0",
           "Xamarin.Forms": "4.0.0.425677",
           "sqlite-net-pcl": "1.6.292"
@@ -3186,6 +3261,20 @@
           "runtimes/win10-x64/native/Microsoft.Graphics.Canvas.dll": {}
         }
       },
+      "Xam.Plugins.Messaging/5.2.0": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "lib/UAP10/Plugin.Messaging.Abstractions.dll": {},
+          "lib/UAP10/Plugin.Messaging.dll": {}
+        },
+        "runtime": {
+          "lib/UAP10/Plugin.Messaging.Abstractions.dll": {},
+          "lib/UAP10/Plugin.Messaging.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.1.0": {
         "type": "package",
         "dependencies": {
@@ -3227,6 +3316,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Xam.Plugins.Messaging": "5.2.0",
           "Xamarin.Essentials": "1.1.0",
           "Xamarin.Forms": "4.0.0.425677",
           "sqlite-net-pcl": "1.6.292"
@@ -3781,6 +3871,20 @@
           "runtimes/win10-x86/native/Microsoft.Graphics.Canvas.dll": {}
         }
       },
+      "Xam.Plugins.Messaging/5.2.0": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "lib/UAP10/Plugin.Messaging.Abstractions.dll": {},
+          "lib/UAP10/Plugin.Messaging.dll": {}
+        },
+        "runtime": {
+          "lib/UAP10/Plugin.Messaging.Abstractions.dll": {},
+          "lib/UAP10/Plugin.Messaging.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.1.0": {
         "type": "package",
         "dependencies": {
@@ -3822,6 +3926,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Xam.Plugins.Messaging": "5.2.0",
           "Xamarin.Essentials": "1.1.0",
           "Xamarin.Forms": "4.0.0.425677",
           "sqlite-net-pcl": "1.6.292"
@@ -4377,6 +4482,20 @@
           "runtimes/win10-x86/native/Microsoft.Graphics.Canvas.dll": {}
         }
       },
+      "Xam.Plugins.Messaging/5.2.0": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "lib/UAP10/Plugin.Messaging.Abstractions.dll": {},
+          "lib/UAP10/Plugin.Messaging.dll": {}
+        },
+        "runtime": {
+          "lib/UAP10/Plugin.Messaging.Abstractions.dll": {},
+          "lib/UAP10/Plugin.Messaging.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.1.0": {
         "type": "package",
         "dependencies": {
@@ -4418,6 +4537,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Xam.Plugins.Messaging": "5.2.0",
           "Xamarin.Essentials": "1.1.0",
           "Xamarin.Forms": "4.0.0.425677",
           "sqlite-net-pcl": "1.6.292"
@@ -8319,6 +8439,47 @@
         "win2d.uwp.nuspec"
       ]
     },
+    "Xam.Plugins.Messaging/5.2.0": {
+      "sha512": "oTBg4tZjkkLHuUuXaybC/pwi0SugrJeyZ7Nq60IAxBliO7FMYaPq9mmmPQvCAEwEhtWaZAjbBzwG/I71CcQrmA==",
+      "type": "package",
+      "path": "xam.plugins.messaging/5.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid10/Plugin.Messaging.Abstractions.dll",
+        "lib/MonoAndroid10/Plugin.Messaging.Abstractions.pdb",
+        "lib/MonoAndroid10/Plugin.Messaging.Abstractions.xml",
+        "lib/MonoAndroid10/Plugin.Messaging.dll",
+        "lib/MonoAndroid10/Plugin.Messaging.pdb",
+        "lib/MonoAndroid10/Plugin.Messaging.xml",
+        "lib/UAP10/Plugin.Messaging.Abstractions.dll",
+        "lib/UAP10/Plugin.Messaging.Abstractions.pdb",
+        "lib/UAP10/Plugin.Messaging.Abstractions.xml",
+        "lib/UAP10/Plugin.Messaging.dll",
+        "lib/UAP10/Plugin.Messaging.pdb",
+        "lib/UAP10/Plugin.Messaging.pri",
+        "lib/UAP10/Plugin.Messaging.xml",
+        "lib/Xamarin.iOS10/Plugin.Messaging.Abstractions.dll",
+        "lib/Xamarin.iOS10/Plugin.Messaging.Abstractions.pdb",
+        "lib/Xamarin.iOS10/Plugin.Messaging.Abstractions.xml",
+        "lib/Xamarin.iOS10/Plugin.Messaging.dll",
+        "lib/Xamarin.iOS10/Plugin.Messaging.xml",
+        "lib/netstandard1.0/Plugin.Messaging.Abstractions.dll",
+        "lib/netstandard1.0/Plugin.Messaging.Abstractions.pdb",
+        "lib/netstandard1.0/Plugin.Messaging.Abstractions.xml",
+        "lib/netstandard1.0/Plugin.Messaging.deps.json",
+        "lib/netstandard1.0/Plugin.Messaging.dll",
+        "lib/netstandard1.0/Plugin.Messaging.pdb",
+        "lib/netstandard1.0/Plugin.Messaging.xml",
+        "lib/tizen40/Plugin.Messaging.Abstractions.dll",
+        "lib/tizen40/Plugin.Messaging.Abstractions.pdb",
+        "lib/tizen40/Plugin.Messaging.Abstractions.xml",
+        "lib/tizen40/Plugin.Messaging.deps.json",
+        "lib/tizen40/Plugin.Messaging.dll",
+        "xam.plugins.messaging.5.2.0.nupkg.sha512",
+        "xam.plugins.messaging.nuspec"
+      ]
+    },
     "Xamarin.Essentials/1.1.0": {
       "sha512": "W0XOt1dNMAE2POcsVotoKDDy5FdAOnR0qULKl6WI4kQEMxQ1sp84DsSU5iacV7oQUMuPhUBAm/3ywks0HO1QrQ==",
       "type": "package",
@@ -8617,6 +8778,7 @@
   "projectFileDependencyGroups": {
     "UAP,Version=v10.0.16299": [
       "Microsoft.NETCore.UniversalWindowsPlatform >= 6.1.9",
+      "Xam.Plugins.Messaging >= 5.2.0",
       "Xamarin.Essentials >= 1.1.0",
       "Xamarin.Forms >= 4.0.0.425677",
       "artem_database >= 1.0.0",
@@ -8670,6 +8832,10 @@
           "Microsoft.NETCore.UniversalWindowsPlatform": {
             "target": "Package",
             "version": "[6.1.9, )"
+          },
+          "Xam.Plugins.Messaging": {
+            "target": "Package",
+            "version": "[5.2.0, )"
           },
           "Xamarin.Essentials": {
             "target": "Package",

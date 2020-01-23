@@ -13,7 +13,18 @@
                     <ViewCell>
                         <ViewCell.View>
                             <StackLayout Orientation="Horizontal">
-                                <Label Text="{Binding Name}" FontSize="Medium" />
+                                
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition/>
+                                        <ColumnDefinition/>
+                                    </Grid.ColumnDefinitions>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                    </Grid.RowDefinitions>
+                                    <Label Grid.Row="0" Grid.Column="0" Text="{Binding Name}" FontSize="Medium" FontAttributes="Bold" TextColor="Black" />
+                                    <Label Grid.Row="0" Grid.Column="1" Text="{Binding Todo}" TextColor="Red" FontSize="Medium" FontAttributes="Bold"/>
+                                </Grid>
                             </StackLayout>
                         </ViewCell.View>
                     </ViewCell>

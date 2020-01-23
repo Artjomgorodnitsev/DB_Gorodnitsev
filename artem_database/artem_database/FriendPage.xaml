@@ -5,6 +5,7 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="artem_database.FriendPage" Title="Добавление друга">
+    <ScrollView>
     <StackLayout>
         <Label Text="Имя" />
         <Entry Text="{Binding Name}" />
@@ -18,20 +19,29 @@
         <DatePicker Date="{Binding Date}"
             MinimumDate="01/01/1980"
             x:Name="DP"/>
+        
+
         <Label Text="Возраст" />
+        <Label Text="{Binding Age}"
+               x:Name="Agelbl"/>
+        <Label Text="Дней до дня рождения" />
+        <Label Text="{Binding DLeft}"/>
+        <Switch x:Name="switch" IsToggled="{Binding sswitch}" ></Switch>
         <Label Text="Пол" />
+        <Label Text="Статус:" />
+        <Label Text="{Binding Status}" TextColor="Black" />
         <Picker x:Name="picker" Title="Выберете пол" SelectedIndex="{Binding Sex}">
-            <Picker.ItemsSource>
-                <x:Array Type="{x:Type x:String}">
+                <Picker.Items>
                     <x:String>Мужчина</x:String>
-                    <x:String>Женщина</x:String>
-                </x:Array>
-            </Picker.ItemsSource>
+                        <x:String>Женщина</x:String>
+                </Picker.Items>
         </Picker>
+        
         <StackLayout Orientation="Horizontal">
             <Button Text="Сохранить" Clicked="SaveFriend" />
             <Button Text="Удалить" Clicked="DeleteFriend" />
             <Button Text="Отмена" Clicked="Cancel" />
         </StackLayout>
     </StackLayout>
+    </ScrollView>
 </ContentPage>

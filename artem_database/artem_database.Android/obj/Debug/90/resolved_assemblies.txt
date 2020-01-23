@@ -4,6 +4,8 @@ C:\Users\opilane\projects\artem_database\artem_database\artem_database.Android\o
 C:\Users\opilane\projects\artem_database\artem_database\artem_database.Android\obj\Debug\90\android\assets\Java.Interop.dll
 C:\Users\opilane\projects\artem_database\artem_database\artem_database.Android\obj\Debug\90\android\assets\Mono.Android.dll
 C:\Users\opilane\projects\artem_database\artem_database\artem_database.Android\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\opilane\projects\artem_database\artem_database\artem_database.Android\obj\Debug\90\android\assets\Plugin.Messaging.Abstractions.dll
+C:\Users\opilane\projects\artem_database\artem_database\artem_database.Android\obj\Debug\90\android\assets\Plugin.Messaging.dll
 C:\Users\opilane\projects\artem_database\artem_database\artem_database.Android\obj\Debug\90\android\assets\SQLite-net.dll
 C:\Users\opilane\projects\artem_database\artem_database\artem_database.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_green.dll
 C:\Users\opilane\projects\artem_database\artem_database\artem_database.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_v2.dll

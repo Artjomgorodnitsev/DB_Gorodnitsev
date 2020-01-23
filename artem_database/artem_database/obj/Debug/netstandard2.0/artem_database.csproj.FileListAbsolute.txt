@@ -8,6 +8,7 @@ C:\Users\opilane\projects\artem_database\artem_database\artem_database\obj\Debug
 C:\Users\opilane\projects\artem_database\artem_database\artem_database\obj\Debug\netstandard2.0\artem_database.csproj.CoreCompileInputs.cache
 C:\Users\opilane\projects\artem_database\artem_database\artem_database\obj\Debug\netstandard2.0\artem_database.AssemblyInfoInputs.cache
 C:\Users\opilane\projects\artem_database\artem_database\artem_database\obj\Debug\netstandard2.0\artem_database.AssemblyInfo.cs
+C:\Users\opilane\projects\artem_database\artem_database\artem_database\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\opilane\projects\artem_database\artem_database\artem_database\obj\Debug\netstandard2.0\artem_database.dll
 C:\Users\opilane\projects\artem_database\artem_database\artem_database\obj\Debug\netstandard2.0\ref\artem_database.dll
 C:\Users\opilane\projects\artem_database\artem_database\artem_database\obj\Debug\netstandard2.0\artem_database.pdb
